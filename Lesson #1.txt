@@ -1,7 +1,0 @@
-
- __author__= 'Самошин А.В.'
-
-N = 123
-s = str(N)
-for digit in s:
-print(digit)
